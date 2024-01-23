@@ -1,0 +1,35 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Temporary files
+*.swp
+*~
+*.bak
+
+# Ignore pipenv virtual environment
+Pipfile
+Pipfile.lock
+
+# Ignore pytest cache
+.cache/
+
+# Ignore coverage directory
+htmlcov/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
